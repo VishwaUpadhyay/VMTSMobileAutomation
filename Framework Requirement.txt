@@ -1,0 +1,9 @@
+IDE - Eclipse
+PL - Java
+Testing Framework - TestNg
+Reports - TestNg reports
+Data Flow - XML,properties file
+CI - Jenkins
+Build tools - Maven
+Version Control - Infy(GitLab)
+Locators - Pagefactory and properties file

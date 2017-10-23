@@ -1,0 +1,31 @@
+<request>
+   <test-execution custom-test = "false">
+      <test-config filename="regressionPack.xml"/>
+   <test-execution> 
+<request>
+
+<request id="">
+   <test-execution custom-test = "true">
+      <test-config>
+	     <test-devices>
+		    <device platform ="mobile">
+			   <mobile test-app = "web/native" os="android/ios" >
+			</device>
+			<device platform ="desktop" >
+			   <desktop os ="windows/mac">
+			</device>
+			<device platform ="stb">
+			    <stb stb-detail ="<TBD>">
+			</device>
+		 <test-devices>
+		 <test-suites>
+		    <test-suite>
+			   <test-case name="VerifyLogin" id="TC1">
+			   <test-case name="VerifyForgetUsername" id="TC2">
+			   <test-case name="VerifyForgetPassword" id="TC3">
+			   <test-case name="VerifyHomeScreeen" id="TC4">
+			<test-suite>
+		</test-suites>
+	  </test-config>
+   <test-execution> 
+<request>
