@@ -1,0 +1,8 @@
+Questions regarding document shared by Harikesh.
+
+1 ) Will it be possible to share StormTest_DeveloperSuiteUserManual.pdf metioned in "CTOITC-StormtestDevelopersuite-131017-1151-26.pdf" ?
+Rationale : As this is a User Manual it will help us to understand the developer suite in a better way more than what we can cover in sessions.
+
+2 ) Will it be possible to share StormTest_deployment_framework_v1_10, Stormtest_Framework_Scripting_Guideline.pdf and StormTest_Python_Test_Framework.pdf
+mentioned in "CTOITC-StormTestPerformanceFarmework-131017-1152-28".
+Rationale : In UK Accenture may or may not have an existing framework for Storm Test . These details will help us to come up with a similar framework if need be.
